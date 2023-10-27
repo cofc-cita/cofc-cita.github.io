@@ -16,7 +16,7 @@ homemd: |
     
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://cofcsecurity.github.io
+url: http://cofc-cita.github.io
 root: /
 permalink: :title:year/
 permalink_defaults:
@@ -101,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: cactus
+theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
